@@ -1,3 +1,2 @@
-xyzzy=echo
 all:
-    $(xyzzy) hello
+		@echo About to make distribution files
